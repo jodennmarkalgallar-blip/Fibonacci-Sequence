@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "Fibonacci Counter (0-987)"      # Project title
-  author:       ""      # Your name
+  author:       "JODENN MARK ALGALLAR"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "BCD Fibonacci counter 0..987 (largest value <= 1000) on a 3-digit multiplexed 7-segment display"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
